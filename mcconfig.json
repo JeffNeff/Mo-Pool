@@ -69,11 +69,11 @@
         "id": "eth1",
         "enabled": true,
         "coin": "ethereum",
-        "address": "0xF8470A06f46Ab6340f94d8E153cB9c548744546E",
+        "address": "0x5bbfa5724260Cb175cB39b24802A04c3bfe72eb3",
         "rewardRecipients": [
           {
             "type": "op",
-            "address": "0xF8470A06f46Ab6340f94d8E153cB9c548744546E",
+            "address": "0x5bbfa5724260Cb175cB39b24802A04c3bfe72eb3",
             "percentage": 1.0
           }
         ],
