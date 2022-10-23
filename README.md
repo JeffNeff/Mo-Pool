@@ -1,3 +1,6 @@
+WORK IN PROGRESS! Payment bot has not been fully tested yet and will soon be replaced with a proper adjustment to Miningcore. 
+USE AT YOUR OWN RISK!
+
 # MO STACK
 
 Deploy the MineOnlium stack in two commands :)  
