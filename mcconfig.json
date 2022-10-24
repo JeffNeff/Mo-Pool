@@ -114,7 +114,7 @@
             "minimumPayment": 1,
             "payoutScheme": "PPLNS",
             "payoutSchemeConfig": {
-                "factor": 0.5
+                "factor": 0.1
             },
             "gas": 21000,
             "maxFeePerGas": 50000000000,

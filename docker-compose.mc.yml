@@ -21,7 +21,7 @@ services:
 
 # Mining Core
   miningcore:
-    image: tmjeff/mc:latest
+    image: tmjeff/miningcoremineonlium
     restart: always
     depends_on:
       mcdb:
@@ -38,7 +38,7 @@ services:
 
 # Payment bot
   paymeplease:
-    image: tmjeff/paymebitch@sha256:0b2c39ef5287ff8cb833b88449a7f4955a5a04d5fcbf1f709353008917ef4f99
+    image: tmjeff/paymebitch@sha256:a5ff84b872dec40dbd1f6819687ffe98c3cddbb662095b1c9fa1adc9d9f4c828
     restart: always
     ports:
       - 8080:8080
