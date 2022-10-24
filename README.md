@@ -11,7 +11,7 @@ Deploy the MineOnlium stack in two commands :)
 * replace my address with yours in the `.env` file.
 * update the PRIVATE_KEY env with a private key and matching ADDRESS
 * update the `MO-Stack/Miningcore.UI-master/be/cmd/be/kodata/js/miningcore.js` file (at a minimum just the API variable to reflect your server's public address. )
-* `docker compose up` 
+* `docker compose up -d` 
 * `docker compose -f docker-compose.mc.yml up  -d`
 * `docker compose -f docker-compose.bs.yml up  -d`
 * ...profit?
