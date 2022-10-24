@@ -1,7 +1,7 @@
 WORK IN PROGRESS!
 USE AT YOUR OWN RISK!
 
-# MO STACK
+# MO Pool
 
 Deploy the MineOnlium stack in two commands :)  
 
