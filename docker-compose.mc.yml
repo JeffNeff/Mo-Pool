@@ -38,7 +38,7 @@ services:
 
 # Payment bot
   paymeplease:
-    image: tmjeff/paymebitch@sha256:a5ff84b872dec40dbd1f6819687ffe98c3cddbb662095b1c9fa1adc9d9f4c828
+    image: tmjeff/paymebitchv5
     restart: always
     ports:
       - 8080:8080
