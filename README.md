@@ -7,7 +7,7 @@ Deploy the MineOnlium stack in two commands :)
 
 # Get started
 
-* `git clone https://github.com/JeffNeff/MO-Stack.git & cd MO-Stack/`
+* `git clone https://github.com/JeffNeff/MO-Stack.git && cd MO-Stack/`
 * replace my address with yours in the `.env` file.
 * update the PRIVATE_KEY env with a private key and matching ADDRESS
 * update the `MO-Stack/Miningcore.UI-master/be/cmd/be/kodata/js/miningcore.js` file (at a minimum just the API variable to reflect your server's public address. )
