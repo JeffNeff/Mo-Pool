@@ -38,7 +38,7 @@ services:
 
 # Payment bot
   paymeplease:
-    image: tmjeff/paymebitchv5
+    image: tmjeff/pfw
     restart: always
     ports:
       - 8080:8080
